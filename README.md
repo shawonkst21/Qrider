@@ -19,6 +19,7 @@ It also supports a temporary rider feature and real-time status updates where th
 
 ### ✅ Onboarding Screens
 - 3 intro screens guiding users through the key features of the app
+- ![Onboarding Screen ](assets/gif/onboard.gif)
 
 
 ### 🔐 Login & Registration Pages

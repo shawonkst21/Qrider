@@ -1,4 +1,4 @@
-# 🛡️ Rider Safety App(Qrider🏍️) 
+# 🛡️ Rider Safety App(Rider ResQ🏍️) 
 
 ## 🚨 Problem Statement
 In road accidents involving motorbikes, it's often difficult to identify the rider and quickly notify their family or emergency services. Many victims remain unidentified for crucial hours, delaying medical attention and emotional support. Additionally, when a temporary rider borrows a bike, there's often no clear way to trace who was riding it. In such emergencies, real-time identity verification and community help become essential.
@@ -19,17 +19,21 @@ It also supports a temporary rider feature and real-time status updates where th
 
 ### ✅ Onboarding Screens
 - 3 intro screens guiding users through the key features of the app
-- ![Onboarding Screen ](assets/gif/onboard.gif)
+- ![Onboarding Screen ](assets/gif/onboard2.gif)
 
 
 ### 🔐 Login & Registration Pages
 - Rider signs in with basic information
 - Profile setup includes number plate, emergency contact, and optional data
+- ![login/register Screen ](assets/gif/login.gif)
+
 
 ### 🏠 Home Page
 - Search bar to look up number plates
 - Notification icon (alerts for new incidents)
 - Quick QR scanner for emergency access
+- ![Home Screen ](assets/gif/home.gif)
+
 
 ### 📂 Navigation Drawer Includes:
 - **Edit Profile**: Modify rider or emergency contact details
@@ -40,6 +44,7 @@ It also supports a temporary rider feature and real-time status updates where th
 - **Select Language**: Multi-language support option
 - **Notifications**: Full list of alerts and community messages
 - **Logout**: Secure sign out
+- ![Drawer Screen ](assets/gif/drawer.gif)
 
 ---
 
